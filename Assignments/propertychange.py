@@ -22,4 +22,7 @@ git commands to save files
 1. make sure you are in root python folder
 2. git status - tell us about any changes in our dictionary
 3. git add [file] - add file to our list of items to be connected
+4. git status - should show all our changes in green
+5. git commit -m "message for commit"
+6. git push - sends the data
 '''
