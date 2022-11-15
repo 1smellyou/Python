@@ -9,7 +9,6 @@ def modIsEven(num):
     if modValue > 0:
           return False
     return True
-
 def isEven(num):
     mynum = str(num)
     #print(mynum[-1])
