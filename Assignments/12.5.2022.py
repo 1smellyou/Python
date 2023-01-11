@@ -12,7 +12,7 @@ class Total:    # class name
 
     # Class constructor - this is assigns the given variables to the 'properties' of our object
     def __init__(this, iron, emerald, copper, amethyst, gold, coal, flint, diamonds = 'y', crystal = 'n'):
-        this.Iron= iron
+        this.Iron = iron
         this.Emerald = emerald
         this.Copper = copper
         this.Amethyst = amethyst
